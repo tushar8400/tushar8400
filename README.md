@@ -1,7 +1,7 @@
 ## TUSHAR👋
 
 # 💫 About Me:
-👋 Hi, I'm an aspiring Full-Stack Developer and DevOps learner. I love turning ideas into code, building web applications, and learning new technologies every day. Currently focused on improving my skills through projects and continuous learning.<br><br>
+👋 Hi, I'm an aspiring DevOps Engineer , AI Engineer and Full-Stack Developer. I love turning ideas into code, building web applications, and learning new technologies every day. Currently focused on improving my skills through projects and continuous learning.<br><br>
 
 
 ## 🌐 Socials:
